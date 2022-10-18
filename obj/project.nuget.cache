@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "x5LzuuXllYnSyw53ADJgdeZSlATl9oGX8gz01kUUYowT7pMplCg5ISpef6w9JMkZ5C+xB2xl8ndfTNRE46yx6g==",
+  "success": true,
+  "projectFilePath": "J:\\Projects\\rainbow-color\\rainbow\\rainbow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lam T\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\Lam T\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\Lam T\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512"
+  ],
+  "logs": []
+}
